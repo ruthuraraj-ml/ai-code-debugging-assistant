@@ -307,7 +307,7 @@ code-debugging-assistant/
 Clone the repository
 
 ```bash
-git clone https://github.com/<ruthuraraj-ml>/ai-code-debugging-assistant.git
+git clone https://github.com/ruthuraraj-ml/ai-code-debugging-assistant.git
 ```
 
 Move into the project
